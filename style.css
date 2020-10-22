@@ -1,0 +1,29 @@
+.height{
+    min-height: 100vh;
+}
+
+.title-underline{
+    width: 150px;
+    height: 6px;
+    margin: 0 auto;
+}
+
+.height-80{
+    min-height: 80vh;
+}
+
+.about-picture{
+    background: url(/Images/achievement-apple-computer-connection-414974.jpg)center/cover no-repeat fixed;
+    /* background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+}
+
+#filler, #progress{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/Images/landscape-photo-of-road-in-the-middle-of-mountains-696680.jpg)center/cover no-repeat fixed;
+}
+
+/* #progress{
+    background: url(/Images/landscape-photo-of-road-in-the-middle-of-mountains-696680.jpg);
+} */
